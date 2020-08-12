@@ -1,0 +1,28 @@
+<CUSTOMEROFFERS>
+<Offers>
+<product>Clothings</product>
+<percentage>40-50%</percentage>
+<rating>4</rating>
+</Offers>
+<Offers>
+<product>Personal Care</product>
+<percentage>20-30%</percentage>
+<rating>5</rating>
+</Offers>
+<Offers>
+<product>Health Supplements</product>
+<percentage>flat 50%</percentage>
+<rating>5</rating>
+</Offers>
+<Offers>
+<product>Massaging Tools</product>
+<percentage>60%</percentage>
+<rating>4</rating>
+</Offers>
+<Offers>
+<product>Make Up</product>
+<percentage>65-70%</percentage>
+<rating>4</rating>
+</Offers>
+</CUSTOMEROFFERS>
+
